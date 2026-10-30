@@ -1,6 +1,6 @@
 # HW1: Group Trip Budget Calculator.
 
-## The program
+# The program
    #-The program intends to calculate the shared costs of a group trip and determine how much each traveler should pay.
    #-The calculation considers five inputs: the number of travelers, the number of nights, the nightly accommodation cost for the whole group, the total transportation cost for the whole trip, and the daily food cost per person.
    #-Using these inputs, it calculates the total accommodation, food, and trip costs, then divides the total expenses equally among all travelers.
